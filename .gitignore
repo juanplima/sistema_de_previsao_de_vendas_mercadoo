@@ -1,0 +1,4 @@
+.env
+previsao.log
+__pycache__/
+*.pyc
